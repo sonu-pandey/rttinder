@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "528661911738",
+    "firebase_url": "https://rtdating-c238d.firebaseio.com",
+    "project_id": "rtdating-c238d",
+    "storage_bucket": "rtdating-c238d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528661911738:android:6626fefb0f9016b5",
+        "android_client_info": {
+          "package_name": "com.example.rututechnologies.rttinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528661911738-6chvng60q56uinjmu037pbu2mgaf6a77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rututechnologies.rttinder",
+            "certificate_hash": "a5598651f2bbccbccde47a22b4e80daf9576eea1"
+          }
+        },
+        {
+          "client_id": "528661911738-8k0f2qpg1ri4hrqurj9ll1mdne68oed7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl530-nyHuRolLMVNKS_yzBIKuOoTlTyY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528661911738-8k0f2qpg1ri4hrqurj9ll1mdne68oed7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
